@@ -19,7 +19,7 @@
 #### 3.3 Load R packages
  * library(ggplo2) <br>
  This command loads the R packages <br>
- Note: Do not put package names in quotes
- Some pacakages print messages when they are loaded
+ Note: Do not put package names in quotes <br>
+ Some pacakages print messages when they are loaded <br>
  
  
